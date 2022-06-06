@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=wangscaler&theme=react-dark">
+</p>
